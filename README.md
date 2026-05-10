@@ -1,5 +1,5 @@
 # Olá, tudo bem? Me chamo Gustavo!
-Sou um desenvolvedor de Software em formação (ADS) com sólida base em desenvolvimento Full Stack. Experiência prática durante toda a gradução na estruturação de bancos de dados, consumo de APIs e implementação de microserviços. 
+Sou um desenvolvedor de software em formação (ADS) com ótima base em desenvolvimento Full Stack. Experiência prática durante toda a gradução na estruturação de bancos de dados, consumo de APIs e implementação de microserviços. 
 
 # Sobre mim
 - **Formação:** Análise e Desenvolvimento de Sistemas (ADS).
